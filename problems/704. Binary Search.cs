@@ -22,7 +22,7 @@ public class Solution704
             }
             else if (nums[mid] < target)
             {
-                left = mid + 1; 
+                left = mid + 1;
             }
             else
             {
